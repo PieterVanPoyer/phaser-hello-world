@@ -1,0 +1,22 @@
+{
+  "name": "phaser-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PieterVanPoyer/phaser-hello-world.git"
+  },
+  "author": "Pieter Van Poyer <Pieter.VanPoyer@portofantwerp.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PieterVanPoyer/phaser-hello-world/issues"
+  },
+  "homepage": "https://github.com/PieterVanPoyer/phaser-hello-world#readme",
+  "dependencies": {
+    "phaser": "^3.22.0"
+  }
+}
